@@ -188,6 +188,7 @@ a {
 
 .formacao__detalhe {
     margin-top: 3px;
+    text-align: center;
 }
 
 /*------------------------------ Seção de Projetos --------------------------------*/
@@ -220,12 +221,16 @@ a {
     background-color: white;
     border-color: #2A7AE4;
     color: #2A7AE4;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .projetos__botao--demo {
     background-color: #2A7AE4;
     border-color: #2A7AE4;
     color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 /*------------------------------ Seção de Contato ---------------------------------*/
