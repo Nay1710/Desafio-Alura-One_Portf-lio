@@ -258,7 +258,8 @@ a {
 }
 
 .contato__imagem {
-    width: 45%;
+    width: 28%;
+    height: 55vh;
     padding-left: 50px;
 }
 
