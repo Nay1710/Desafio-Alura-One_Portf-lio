@@ -202,6 +202,7 @@ a {
 .projetos__conteiner {
     display: flex;
     gap: 16px;
+    margin: 20px;
 }
 
 .decodificador {
@@ -231,6 +232,11 @@ a {
     color: #ffffff;
     padding: 10px;
     border-radius: 10px;
+}
+
+.batman {
+    width: 530px;
+    height: 306px;
 }
 
 /*------------------------------ Seção de Contato ---------------------------------*/
