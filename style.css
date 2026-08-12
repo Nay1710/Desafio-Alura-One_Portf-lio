@@ -416,6 +416,7 @@ p {
         .apresentacao {
             display: flex;
             flex-flow: column;
+            background-color: pink;
         }
 
         .apresentacao__foto {
