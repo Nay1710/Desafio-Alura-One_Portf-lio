@@ -375,6 +375,11 @@ p {
 
     /*------------------------------ Seção de Projetos --------------------------------*/
 
+    .projetos__conteiner {
+        display: flex;
+        flex-direction: column;
+    }
+    
     .projetos__titulo {
         font-size: 1.3rem;
     }
@@ -436,6 +441,11 @@ p {
             width: 10%;
             height: auto;
             font-size: 0.7rem;
+        }
+
+        .projetos__conteiner {
+            display: flex;
+            flex-direction: column;
         }
 
     /*------------------------------ Seção de Contato ---------------------------------*/
